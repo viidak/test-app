@@ -1,4 +1,4 @@
-# Flight Advisor Code Test
+# Code Test
 
 ## Technologies
 
